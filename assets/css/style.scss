@@ -3,6 +3,17 @@
 
 @import "{{ site.theme }}";
 
+/*  #704235 roast coffee  */
+/*  #B7845F deer  */
+/*  #E5A96E fawn  */
+/*  #FFC277 topaz  */
+/*  #FFDDA0 navajo white  */
+
+
 .page-header {
     background-image: linear-gradient(120deg, #FFDDA0, #B7845F);
 }
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #704235;
+    ]
