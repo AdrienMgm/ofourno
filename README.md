@@ -1,7 +1,3 @@
----
-title: This is my title
----
-
 # Header 1
 
 ## Welcome to GitHub Pages
