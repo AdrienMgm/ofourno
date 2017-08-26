@@ -9,23 +9,6 @@ Filtrez les boulangeries disponibles selon vos critères pour trouver celle qui 
 
 Un remplacement imprévu, une commande importante, une urgence : quelle que soit l'occasion, vous pouvez trouver un artisan sans passer par un intermédiaire. Vous trouvez directement des personnes disponibles.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
