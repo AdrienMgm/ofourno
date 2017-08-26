@@ -1,4 +1,6 @@
-## Trouvez un artisan en toute simplicité
+# Trouvez un artisan en toute simplicité
+# Trouvez un artisan n'a jamais été aussi simple
+# Trouvez un artisan n'a jamais été aussi facile
 
 ### Partout, à tout instant
 
