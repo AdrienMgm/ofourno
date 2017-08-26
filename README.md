@@ -1,6 +1,8 @@
 # Trouvez un artisan en toute simplicité
 # Trouvez un artisan n'a jamais été aussi simple
 # Trouvez un artisan n'a jamais été aussi facile
+# Les meilleurs ouvriers près de chez vous !
+# Les meilleurs boulanger en un click !
 
 ### Partout, à tout instant
 
