@@ -1,8 +1,8 @@
 ## Trouvez un artisan en toute simplicité
 
-### Trouvez facilement des boulangeries qui ont besoin de vous
+### Trouvez facilement des artisans disponibles
 
-Filtrez les boulangeries disponibles selon vos critères pour trouver celle qui vous correspond. Prenez un premier contact pour vous présenter et obtenir plus d'informations. 
+Filtrez les artisans disponibles selon vos critères pour trouver ceux qui vous correspondent. Prenez un premier contact pour vous présenter décrire vos besoin.  
 
 
 ### Partout, à tout instant
