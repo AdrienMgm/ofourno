@@ -2,7 +2,13 @@
 
 ### Trouvez facilement des boulangeries qui ont besoin de vous
 
-Appuyez sur un bouton pour commander un véhicule là où vous vous trouvez. Montez à bord ! Votre chauffeur sait exactement où aller. Une fois à bon port, vous n'avez plus qu'à descendre. Le paiement est simple et rapide.
+Filtrez les boulangeries disponibles selon vos critères pour trouver celle qui vous correspond. Prenez un premier contact pour vous présenter et obtenir plus d'informations. 
+
+
+### Partout, à tout instant
+
+Un remplacement imprévu, une commande importante, une urgence : quelle que soit l'occasion, vous pouvez trouver un artisan sans passer par un intermédiaire. Vous trouvez directement des personnes disponibles.
+
 ```markdown
 Syntax highlighted code block
 
