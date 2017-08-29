@@ -20,6 +20,7 @@ h1, h2 {
 
 @media screen and (min-width: 64em) {
     .page-header {
+        height: 60vh;
         padding: 2rem 6rem;
     }
     
@@ -34,6 +35,7 @@ h1, h2 {
 
 @media screen and (max-width: 64em) and (min-width: 42em) {
     .page-header {
+        height: 50vh;
         padding: 3rem 4rem;
     }
     
@@ -65,7 +67,6 @@ h1, h2 {
     background-image: url(../../img/pain.png);
     background-size: cover;
     background-color: #E5A96E;
-    height: 60vh;
     font-family: 'Great Vibes', cursive;
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,.7);
 }
