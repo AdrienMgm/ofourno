@@ -14,10 +14,10 @@ body {
 }    
     
 .page-header {
-    /*background-image: linear-gradient(120deg, #FFDDA0, #B7845F);*/
-    background-repeat: repeat;
-    background-image: url("../../img/repeat_bread.png");
+    background-image: url(../../img/pain.png);
+    background-size: cover;
     background-color: #E5A96E;
+    height: 60vh;
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
