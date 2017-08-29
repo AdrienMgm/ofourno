@@ -10,14 +10,20 @@
 /*  #FFDDA0 navajo white  */
 
 body {
-    background-color: #EFEDE7;   
-}    
+    font-family: 'Open Sans', sans-serif;
+    background-color: #EFEDE7;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Great Vibes', cursive;
+}
     
 .page-header {
     background-image: url(../../img/pain.png);
     background-size: cover;
     background-color: #E5A96E;
     height: 60vh;
+    font-family: 'Great Vibes', cursive;
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
