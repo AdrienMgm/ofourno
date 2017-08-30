@@ -11,7 +11,6 @@ Artisans, inscrivez-vous et boostez votre carrière |
 Trouvez de nouveaux contrats, votre réputation augmente votre visibilité. Plus vous faites de missions, plus votre réputation augmente. |
 
 ![Image of shop](./img/shop_icon.svg) |
-
 Gérants, trouvez facilement des artisans disponibles |
 ------------ |
 Filtrez les artisans disponibles selon vos critères pour trouver ceux qui vous correspondent. Prenez un premier contact pour vous présenter et décrire vos besoins. |
