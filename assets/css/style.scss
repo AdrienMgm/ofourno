@@ -29,10 +29,6 @@ h1, h2 {
     vertical-align: top;
 }
 
-.main-content table img {
-    width: 80%;
-}
-
 td, th {
     vertical-align: top;
 }
@@ -56,6 +52,10 @@ iframe {
         font-size: 3em;
     }
     
+    .main-content table img {
+        width: 80%;
+    }
+    
     .page-header {
         height: 50rem;
         padding: 2rem 6rem;
@@ -77,6 +77,10 @@ iframe {
     
     .main-content table {
         width: 100% !important;
+    }
+    
+    .main-content table img {
+        width: 40%;
     }
     
     .page-header {
@@ -140,6 +144,7 @@ iframe {
     font-family: 'Great Vibes', cursive;
     position: absolute;
     top: 50%;
+    width: 100%;
     left: 0;
     padding: 3rem;
     transform: translateY(-60%);
