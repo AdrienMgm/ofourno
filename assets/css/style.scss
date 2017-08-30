@@ -19,6 +19,12 @@ h1, h2 {
     text-align: center;
 }
 
+.main-content table {
+    display: inline-block;
+    width: 32%;
+    vertical-align: top;
+}
+
 td, th {
     vertical-align: top;
 }
@@ -77,6 +83,10 @@ iframe {
 @media screen and (max-width: 42em) {
     h1 {
         font-size: 1em;
+    }
+    
+    .main-content table {
+        width: 100% !important;
     }
     
     .page-header {
