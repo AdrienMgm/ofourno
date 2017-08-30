@@ -15,7 +15,25 @@ body {
 }
 
 h1, h2 {
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Oxygen';
+    text-align: center;
+}
+
+td, th {
+    vertical-align: top;
+}
+
+th {
+    font-family: 'Oxygen';
+    font-size: 1.2rem;
+}
+
+td {
+    width: 33%;
+}
+
+iframe {
+    margin-top: 2rem;
 }
 
 @media screen and (min-width: 64em) {
@@ -24,7 +42,7 @@ h1, h2 {
     }
     
     .page-header {
-        height: 60rem;
+        height: 50rem;
         padding: 2rem 6rem;
     }
     
@@ -43,7 +61,7 @@ h1, h2 {
     }
     
     .page-header {
-        height: 50rem;
+        height: 40rem;
         padding: 3rem 4rem;
     }
     
@@ -92,6 +110,7 @@ h1, h2 {
 }
 
 .project-tagline {
+    font-family: 'Great Vibes', cursive;
     position: absolute;
     top: 50%;
     left: 0;
