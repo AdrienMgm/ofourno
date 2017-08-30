@@ -19,10 +19,18 @@ h1, h2 {
     text-align: center;
 }
 
+.main-content {
+    padding: 2rem 2rem;
+}
+
 .main-content table {
     display: inline-block;
     width: 32%;
     vertical-align: top;
+}
+
+.main-content table img {
+    width: 80%;
 }
 
 td, th {
@@ -44,7 +52,7 @@ iframe {
 }
 
 @media screen and (min-width: 64em) {
-    h1 {
+    .main-content h1 {
         font-size: 3em;
     }
     
@@ -63,8 +71,12 @@ iframe {
 }
 
 @media screen and (max-width: 64em) and (min-width: 42em) {
-    h1 {
+    .main-content h1 {
         font-size: 2.5em;
+    }
+    
+    .main-content table {
+        width: 100% !important;
     }
     
     .page-header {
@@ -82,8 +94,8 @@ iframe {
 }
 
 @media screen and (max-width: 42em) {
-    h1 {
-        font-size: 2.5em;
+    .main-content h1 {
+        font-size: 2em;
     }
     
     .main-content table {
