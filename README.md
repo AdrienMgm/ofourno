@@ -3,7 +3,7 @@
 ![Image of location](./img/localise_icon.svg) |
 Avec votre app partout, à tout instant |
 ------------ |
-Un imprévu, une commande importante, une urgence : quelle que soit l'occasion, vous pouvez trouver un artisan selon son profil. Vous trouvez directement des ouvriers disponibles. |
+Un imprévu, une commande importante, une urgence : quelle que soit l'occasion, vous êtes mis en contact entre professionels avec un artisan selon son profil. Vous trouvez directement des ouvriers disponibles. |
 
 ![Image of wheat](./img/wheat_icon.svg) |
 Artisans, inscrivez-vous et boostez votre carrière |
