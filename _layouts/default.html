@@ -45,5 +45,15 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+    
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script type="text/javascript">
+       $(function() {
+        $('.scroll-down').click (function() {
+          $('html, body').animate({scrollTop: $('section.ok').offset().top }, 'slow');
+          return false;
+        });
+      });
+    </script>
   </body>
 </html>
