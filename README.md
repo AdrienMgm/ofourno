@@ -1,7 +1,7 @@
 # Trouvez un artisan n'a jamais été aussi simple
 
 ![Image of location](./img/localise_icon.svg) |
-Partout, à tout instant &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+Avec votre app partout, à tout instant &nbsp;&nbsp;&nbsp;&nbsp; |
 ------------ |
 Un remplacement imprévu, une commande importante, une urgence : quelle que soit l'occasion, vous pouvez trouver un artisan en direct selon son profil. Vous trouvez directement des ouvriers disponibles. |
 
