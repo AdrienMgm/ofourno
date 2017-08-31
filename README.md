@@ -8,7 +8,7 @@ Un imprévu, une commande importante, une urgence : quelle que soit l'occasion, 
 ![Image of wheat](./img/wheat_icon.svg) |
 Ouvriers, inscrivez-vous et boostez votre carrière |
 ------------ |
-Trouvez de nouveaux contrats. Plus vous faites de missions, plus votre réputation augmente. Votre notoriété influence votre visibilité. |
+Trouvez de nouveaux contrats. Plus vous faites de missions, plus votre réputation augmente. Votre notoriété influence votre visibilité. Travaillez quand vous voulez. Gagnez ce dont vous avez besoin. |
 
 ![Image of shop](./img/shop_icon.svg) |
 Gérants, trouvez facilement des ouvriers |
