@@ -16,3 +16,7 @@ Gérants, trouvez facilement des ouvriers |
 Filtrez les ouvriers disponibles selon vos critères pour trouver ceux qui vous correspondent. Prenez un premier contact pour vous présenter et décrire vos besoins. |
 
 _Si vous souhaitez voir aboutir ce projet, prenez le temps de répondre au **questionnaire** ci dessous. C'est important pour nous et pour que le projet puisse se **réaliser**._
+
+_:mega: Partagez sur les réseaux sociaux ! :mega:_
+
+_À partir de 1000 réponses, on passe à l'étape supérieur :stuck_out_tongue_winking_eye:_
